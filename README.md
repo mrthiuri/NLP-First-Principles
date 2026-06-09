@@ -1,7 +1,7 @@
 # 🧠 Understanding Language: NLP from First Principles
 
 > *“How do machines learn to understand language?”*  
-> This project started as me trying to answer that question — not with a fancy library, but from scratch.  
+> This project started as me trying to answer that question, not with a fancy library, but from scratch.  
 > I’d just discovered large language models and wanted to trace NLP back to its roots: from tokenization and Bag-of-Words to embeddings and real-world applications.
 
 ---
